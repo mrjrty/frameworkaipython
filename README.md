@@ -3,6 +3,7 @@
 [![Join the chat at https://gitter.im/ai-chatbot-framework/Lobby](https://badges.gitter.im/ai-chatbot-framework/Lobby.svg)](https://gitter.im/ai-chatbot-framework/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Build Status](https://travis-ci.com/alfredfrancis/ai-chatbot-framework.svg?branch=master)](https://travis-ci.com/alfredfrancis/ai-chatbot-framework.svg?branch=master)
 
 
+I made several improvements to this system.
 
 ### An AI Chatbot framework built in Python
 
